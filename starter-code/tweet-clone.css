@@ -1,0 +1,87 @@
+body {
+  background-color: rgb(244, 248, 249);
+  font-family: Helvetica;
+  font-size: 27px;
+}
+
+.first-tweet {
+  background: rgb(255, 255, 255);
+  border: 2px solid rgb(225, 232, 237);
+  border-radius: 10px;
+  padding: 30px;
+  width: 900px;
+  height: 250px;
+}
+
+.profile-picture {
+  float: left;
+  padding-right: 22px;
+}
+
+.user {
+  float: left;
+}
+.account-logo {
+padding-left: 5px;
+}
+
+.user-name {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  vertical-align: 10%;
+}
+
+.validated-account {
+  padding-left:5px;
+
+}
+
+.user-account {
+  color: rgb(104, 109, 129)
+}
+
+.follow-button {
+  float: right;
+}
+
+.button-text {
+  vertical-align: 22%;
+  padding: 10px;
+}
+
+button {
+  color: rgb(85, 172, 238);
+  background: rgb(255, 255, 255);
+  border-radius: 10px;
+  border: 2px solid rgb(85, 172, 238);
+  font-size:25px;
+  font-weight: bold;
+  text-align: center;
+  padding: 12px 20px;
+}
+
+.tweet-text {
+  clear: both;
+  padding-top: 35px;
+  padding-bottom: 15px;
+  color: rgb(0, 0, 0);
+  font-size:30px;
+}
+
+.time-date {
+  padding-bottom: 25px;
+  color: rgb(101, 116, 127);
+}
+
+.bottom-elements {
+  color: rgb(105, 120, 130);
+
+}
+
+.bottom-image {
+  padding-left:25px;
+}
+
+.bottom-text {
+  padding-left:5px;
+}
